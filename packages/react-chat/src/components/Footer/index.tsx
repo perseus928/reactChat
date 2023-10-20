@@ -48,9 +48,9 @@ const Footer: React.FC<FooterProps> = ({ withWatermark, hasEnded, onStart, onSen
       )}
       {withWatermark && (
         <Watermark>
-          Powered by influencer 
-          <a target="_blank" href="https://kit.ai" rel="noreferrer">
-            kit.ai
+          Powered by
+          <a target="_blank" href="https://influencerkit.ai" rel="noreferrer">
+            influencerkit.ai
           </a>
           {/* Assistant ⚡️ by
           <a target="_blank" href="https://voiceflow.com" rel="noreferrer">
